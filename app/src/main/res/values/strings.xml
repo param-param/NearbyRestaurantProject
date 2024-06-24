@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NearbyRestaurants</string>
+    <string name="something_Went_wrong">Something went wrong!!</string>
+    <string name="internet_is_not_available">Internet is not available!!</string>
+    <string name="ok">OK</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="start_navigation">Start Navigation</string>
+    <string name="not_available">Not Available</string>
+    <string name="to_see_nearby_restaurants_you_need">To see nearby restaurants you need to give permissions to use device locations.</string>
+    <string name="google_maps_app_not_installed">Google maps app not installed</string>
+</resources>

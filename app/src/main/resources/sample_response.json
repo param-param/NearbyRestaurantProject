@@ -1,0 +1,407 @@
+{
+  "results": [
+    {
+      "fsq_id": "4f452610e4b061ee9870084d",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 8821,
+      "geocodes": {
+        "main": {
+          "latitude": 30.719481,
+          "longitude": 76.801633
+        }
+      },
+      "link": "/v3/places/4f452610e4b061ee9870084d",
+      "location": {
+        "address": "Sector 28",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Sector 28, Chandigarh 941735, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "941735",
+        "region": "Chandigarh"
+      },
+      "name": "Pal Dhaba (Since 1960)",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4bd1b65d046076b07e477271",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13377,
+          "name": "Vegan and Vegetarian Restaurant",
+          "short_name": "Vegan and Vegetarian Restaurant",
+          "plural_name": "Vegan and Vegetarian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/vegetarian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 7715,
+      "geocodes": {
+        "main": {
+          "latitude": 30.739725,
+          "longitude": 76.782689
+        },
+        "roof": {
+          "latitude": 30.739725,
+          "longitude": 76.782689
+        }
+      },
+      "link": "/v3/places/4bd1b65d046076b07e477271",
+      "location": {
+        "address": "189-91, Sector-17",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "189-91, Sector-17, Chandigarh 941735, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "941735",
+        "region": "Chandigarh"
+      },
+      "name": "Ghazal Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f2c0c43e4b0de35532d5911",
+      "categories": [
+        {
+          "id": 13003,
+          "name": "Bar",
+          "short_name": "Bar",
+          "plural_name": "Bars",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 9086,
+      "geocodes": {
+        "main": {
+          "latitude": 30.72869,
+          "longitude": 76.80259
+        }
+      },
+      "link": "/v3/places/4f2c0c43e4b0de35532d5911",
+      "location": {
+        "address": "Sector-26, Sco 7",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Sector-26, Sco 7, Chandigarh 160019, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "160019",
+        "region": "Chandigarh"
+      },
+      "name": "Swagath",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4f5e1cf4e4b01219ad9371a2",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 13735,
+      "geocodes": {
+        "main": {
+          "latitude": 30.634345,
+          "longitude": 76.823474
+        }
+      },
+      "link": "/v3/places/4f5e1cf4e4b01219ad9371a2",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Chandigarh 941735, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "941735",
+        "region": "Chandigarh"
+      },
+      "name": "Sethi Dhaba",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "08f4eaf63adf451a4412af72",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 3031,
+      "geocodes": {
+        "main": {
+          "latitude": 30.692304,
+          "longitude": 76.734152
+        }
+      },
+      "link": "/v3/places/08f4eaf63adf451a4412af72",
+      "location": {
+        "address": "Scf 7-8, Phase 9, Sukhna Path",
+        "address_extended": "Near Pca Cricket Stadium, Sector 63",
+        "country": "IN",
+        "formatted_address": "Scf 7-8, Phase 9, Sukhna Path, Mohali 160063, Punjab",
+        "locality": "Mohali",
+        "postcode": "160063",
+        "region": "Punjab"
+      },
+      "name": "Towns Pride Restaurant",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "53a53c3a498e70c5a303d5ba",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 3834,
+      "geocodes": {
+        "main": {
+          "latitude": 30.686037,
+          "longitude": 76.738942
+        }
+      },
+      "link": "/v3/places/53a53c3a498e70c5a303d5ba",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Dhaba",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5ba658c018d43b002c6341dc",
+      "categories": [
+        {
+          "id": 13221,
+          "name": "Punjabi Restaurant",
+          "short_name": "Punjabi",
+          "plural_name": "Punjabi Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4005,
+      "geocodes": {
+        "main": {
+          "latitude": 30.715033,
+          "longitude": 76.751408
+        },
+        "roof": {
+          "latitude": 30.715033,
+          "longitude": 76.751408
+        }
+      },
+      "link": "/v3/places/5ba658c018d43b002c6341dc",
+      "location": {
+        "address": "Bay Shop No. 395, Sector 44/D",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Bay Shop No. 395, Sector 44/D, Chandigarh 160047, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "160047",
+        "region": "Chandigarh"
+      },
+      "name": "Lahori Dhaba",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5048d13fe4b0d1f2d92040c5",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 4952,
+      "geocodes": {
+        "main": {
+          "latitude": 30.726117,
+          "longitude": 76.757883
+        }
+      },
+      "link": "/v3/places/5048d13fe4b0d1f2d92040c5",
+      "location": {
+        "address": "Sco 265, Sector 35 D, Sector 35",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Sco 265, Sector 35 D, Sector 35, Chandigarh 160022, Chandigarh",
+        "locality": "Chandigarh",
+        "postcode": "160022",
+        "region": "Chandigarh"
+      },
+      "name": "Katani Dhaba",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "4e27e324a809ec0663e878f5",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "LikelyOpen",
+      "distance": 5813,
+      "geocodes": {
+        "main": {
+          "latitude": 30.722509,
+          "longitude": 76.768992
+        }
+      },
+      "link": "/v3/places/4e27e324a809ec0663e878f5",
+      "location": {
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "941735",
+        "postcode": "941735"
+      },
+      "name": "Drop-in",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    },
+    {
+      "fsq_id": "5d0e51ac20a53f0023b995b4",
+      "categories": [
+        {
+          "id": 13199,
+          "name": "Indian Restaurant",
+          "short_name": "Indian",
+          "plural_name": "Indian Restaurants",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/indian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "closed_bucket": "Unsure",
+      "distance": 6342,
+      "geocodes": {
+        "main": {
+          "latitude": 30.657775,
+          "longitude": 76.737168
+        }
+      },
+      "link": "/v3/places/5d0e51ac20a53f0023b995b4",
+      "location": {
+        "address": "Commercial Sco 72, Basement, Ground .And, Jlpl Industrial Area, Sector 82",
+        "address_extended": "1st Floor",
+        "country": "IN",
+        "cross_street": "",
+        "formatted_address": "Commercial Sco 72, Basement, Ground .And, Jlpl Industrial Area, Sector 82, Ajitgarh 140308, Punjab",
+        "locality": "Ajitgarh",
+        "postcode": "140308",
+        "region": "Punjab"
+      },
+      "name": "Biryani by KILO",
+      "related_places": {},
+      "timezone": "Asia/Kolkata"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 30.71,
+          "longitude": 76.71
+        },
+        "radius": 22000
+      }
+    }
+  }
+}

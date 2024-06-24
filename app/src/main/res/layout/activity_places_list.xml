@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <RelativeLayout
+        android:id="@+id/mainContainer"
+        android:background="@color/primaryColor"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:id="@+id/rlTopBar"
+            android:background="#222222"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp">
+
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardView"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                app:cardBackgroundColor="@color/white"
+                app:cardCornerRadius="50dp"
+                app:cardElevation="10dp">
+
+                <ImageView
+                    android:id="@+id/ivBackIcon"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_centerVertical="true"
+                    android:layout_gravity="center"
+                    android:rotation="180"
+                    android:src="@drawable/baseline_arrow_forward" />
+
+            </androidx.cardview.widget.CardView>
+
+            <TextView
+                android:id="@+id/tvTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginStart="15dp"
+                android:layout_toEndOf="@id/cardView"
+                android:fontFamily="@font/gotham_rounded_bold"
+                android:gravity="center"
+                android:includeFontPadding="false"
+                android:text="Restaurants"
+                android:textColor="@color/primaryTextColor"
+                android:textSize="18sp" />
+
+            <ImageView
+                android:id="@+id/ivRefreshIcon"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_centerVertical="true"
+                android:layout_gravity="center"
+                android:layout_alignParentEnd="true"
+                android:src="@drawable/refresh_icon"
+                android:tint="@color/primaryTextColor"/>
+
+        </RelativeLayout>
+
+<!--        <View-->
+<!--            android:id="@+id/view"-->
+<!--            android:layout_below="@id/rlTopBar"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="0.5dp"-->
+<!--            android:background="@color/secondaryColor"/>-->
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@id/rlTopBar"
+            android:id="@+id/recyclerView"/>
+
+        <TextView
+            android:id="@+id/tvAllowLocationPermission"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginHorizontal="25dp"
+            android:fontFamily="@font/gotham_rounded_bold"
+            android:gravity="center"
+            android:includeFontPadding="false"
+            android:text="@string/to_see_nearby_restaurants_you_need"
+            android:textColor="@color/primaryTextColor"
+            android:textSize="18sp" />
+
+
+    </RelativeLayout>
+
+
+</layout>
+
