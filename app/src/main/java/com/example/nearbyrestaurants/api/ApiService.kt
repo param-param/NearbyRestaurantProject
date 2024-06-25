@@ -2,7 +2,7 @@ package com.example.nearbyrestaurants.api
 
 import com.example.nearbyrestaurants.commonUtils.commonModels.Result
 import com.example.nearbyrestaurants.screens.placeDetailsScreen.models.PlacePhotosResponseItem
-import com.learning.mvvmSample.xyzFeatureScreens.models.PlacesSearchResponse
+import com.example.nearbyrestaurants.screens.placesListScreen.models.PlacesSearchResponse
 import retrofit2.Response
 import retrofit2.http.GET
 import retrofit2.http.Path

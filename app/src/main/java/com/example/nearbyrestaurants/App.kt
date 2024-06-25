@@ -1,7 +1,7 @@
 package com.example.nearbyrestaurants
 
 import android.app.Application
-import com.demo.moviesapp.di.AppModule
+import com.example.nearbyrestaurants.di.AppModule
 import com.example.nearbyrestaurants.di.ApplicationComponent
 import com.example.nearbyrestaurants.di.DaggerApplicationComponent
 

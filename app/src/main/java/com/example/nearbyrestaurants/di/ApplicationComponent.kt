@@ -1,6 +1,5 @@
 package com.example.nearbyrestaurants.di
 
-import com.demo.moviesapp.di.AppModule
 import com.example.nearbyrestaurants.screens.placeDetailsScreen.PlaceDetailsActivity
 import com.example.nearbyrestaurants.screens.placesListScreen.PlacesListActivity
 import dagger.Component

@@ -1,4 +1,4 @@
-package com.demo.moviesapp.di
+package com.example.nearbyrestaurants.di
 
 import android.app.Application
 import android.content.Context

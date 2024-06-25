@@ -1,4 +1,4 @@
-package com.demo.moviesapp.screens.popularAndTopRatedList.adapter
+package com.example.nearbyrestaurants.screens.placesListScreen.adapters
 
 import android.content.Context
 import android.util.Log

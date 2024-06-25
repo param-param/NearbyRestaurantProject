@@ -1,6 +1,6 @@
 package com.example.nearbyrestaurants.commonUtils.commonModels
 
-import com.learning.mvvmSample.xyzFeatureScreens.models.Location
+import com.example.nearbyrestaurants.screens.placesListScreen.models.Location
 
 data class Result(
     val categories: List<Category>,

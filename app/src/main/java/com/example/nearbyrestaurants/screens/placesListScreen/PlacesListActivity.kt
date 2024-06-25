@@ -20,7 +20,6 @@ import androidx.fragment.app.DialogFragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.demo.moviesapp.screens.popularAndTopRatedList.adapter.PlacesListAdapter
 import com.example.nearbyrestaurants.App
 import com.example.nearbyrestaurants.R
 import com.example.nearbyrestaurants.commonUtils.Constants
@@ -32,6 +31,7 @@ import com.example.nearbyrestaurants.commonUtils.alertDialogs.ProgressBarDialog
 import com.example.nearbyrestaurants.commonUtils.commonModels.Result
 import com.example.nearbyrestaurants.databinding.ActivityPlacesListBinding
 import com.example.nearbyrestaurants.screens.placeDetailsScreen.PlaceDetailsActivity
+import com.example.nearbyrestaurants.screens.placesListScreen.adapters.PlacesListAdapter
 import com.example.nearbyrestaurants.screens.placesListScreen.viewModels.PlacesListActivityViewModel
 import com.example.nearbyrestaurants.screens.placesListScreen.viewModels.PlacesListActivityViewModelFactory
 import com.google.android.gms.location.FusedLocationProviderClient

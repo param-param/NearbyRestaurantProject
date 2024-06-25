@@ -1,4 +1,4 @@
-package com.learning.mvvmSample.xyzFeatureScreens.models
+package com.example.nearbyrestaurants.screens.placesListScreen.models
 
 data class Context(
     val geo_bounds: GeoBounds

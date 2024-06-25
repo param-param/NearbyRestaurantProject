@@ -1,6 +1,6 @@
 package com.example.nearbyrestaurants.commonUtils.commonModels
 
-import com.learning.mvvmSample.xyzFeatureScreens.models.Icon
+import com.example.nearbyrestaurants.screens.placesListScreen.models.Icon
 
 data class Category(
     val icon: Icon,
